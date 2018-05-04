@@ -1,0 +1,8 @@
+/GeneratedFiles/*
+/x64/*
+.t
+*.ui
+*.dll
+*.vcxproj
+*.filters
+*.user

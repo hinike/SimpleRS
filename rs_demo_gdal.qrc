@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/RS_DEMO_GDAL"/>
+    <qresource prefix="/img">
+        <file>Resources/Bar Chart_64px.png</file>
+        <file>Resources/Burglary_64px.png</file>
+        <file>Resources/Collapse_64px.png</file>
+        <file>Resources/Compare_100px.png</file>
+        <file>Resources/Crop_64px.png</file>
+        <file>Resources/Filter_64px.png</file>
+        <file>Resources/More_64px.png</file>
+        <file>Resources/Open_64px.png</file>
+        <file>Resources/Pencil Sharpener_64px.png</file>
+        <file>Resources/Save_64px.png</file>
+        <file>Resources/Services_64px.png</file>
+        <file>Resources/Switch_64px.png</file>
+        <file>Resources/Save_as_64px.png</file>
+        <file>Resources/Info_64px.png</file>
+        <file>Resources/Activity Grid_64px.png</file>
+        <file>Resources/UNICEF_64px.png</file>
+        <file>Resources/Checkmark_64px.png</file>
+        <file>Resources/Zoom In_64px.png</file>
+        <file>Resources/Zoom Out_64px.png</file>
+        <file>Resources/Zoom to Extents_64px.png</file>
+    </qresource>
+</RCC>
